@@ -55,11 +55,16 @@ const Resume = () => {
                         <p>
                             <a href="mailto:lindsey.michalowski@gmail.com" className="text-green-600 hover:underline">
                                 lindsey.michalowski@gmail.com
-                            </a> · (847) 312-0386
+                            </a>
                         </p>
                         <p>
                             <a href="https://linkedin.com/in/lindseymichalowski" className="text-green-600 hover:underline">
-                                linkedin.com/in/lindseymichalowski
+                                www.linkedin.com/in/lindseymichalowski
+                            </a>
+                        </p>
+                        <p>
+                            <a href="https://linkedin.com/in/lindseymichalowski" className="text-green-600 hover:underline">
+                                www.lindseymichalowski.com
                             </a>
                         </p>
                     </div>

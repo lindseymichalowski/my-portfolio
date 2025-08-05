@@ -48,7 +48,7 @@ const Contact = () => {
                     <div className="text-center space-y-4">
                         <h2 className="text-3xl font-bold text-gray-800">Get In Touch</h2>
                         <p className="text-lg text-gray-600">
-                            Whether you have a project in mind, want to collaborate, or just want to say hi — I’d love to hear from you.
+                            Whether you have a project in mind, want to collaborate, or just want to <br></br>say hi, I’d love to hear from you!
                         </p>
                     </div>
 
@@ -62,10 +62,10 @@ const Contact = () => {
                         </div>
 
                         {/* Phone */}
-                        <div className="p-4 border rounded-lg hover:shadow-md transition-shadow duration-200">
-                            <p className="text-sm text-gray-500 uppercase">Phone</p>
-                            <p className="text-lg font-medium text-gray-800">(847) 312-0386</p>
-                        </div>
+                        {/*<div className="p-4 border rounded-lg hover:shadow-md transition-shadow duration-200">*/}
+                        {/*    <p className="text-sm text-gray-500 uppercase">Phone</p>*/}
+                        {/*    <p className="text-lg font-medium text-gray-800"></p>*/}
+                        {/*</div>*/}
 
                         {/* LinkedIn */}
                         <div className="p-4 border rounded-lg hover:shadow-md transition-shadow duration-200">
@@ -94,7 +94,7 @@ const Contact = () => {
                         </div>
 
                         {/* Calendly */}
-                        <div className="p-4 border rounded-lg hover:shadow-md transition-shadow duration-200 col-span-1 md:col-span-2">
+                        <div className="p-4 border rounded-lg hover:shadow-md transition-shadow duration-200">
                             <p className="text-sm text-gray-500 uppercase">Book a Call</p>
                             <a
                                 href="https://calendly.com/lindseymichalowski"
