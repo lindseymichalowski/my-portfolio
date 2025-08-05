@@ -87,8 +87,18 @@ const Projects = () => {
                         </div>
 
                         <div>
-                            <h4 className="text-lg font-bold border-b border-gray-300 pb-1 mb-2">Stakeholder's Recommendation:</h4>
-                            <p className="text-gray-700 text-base italic mb-10">“Lindsey has been an outstanding asset to this complex project [here]. She has skillfully applied her organizational, agile, and communication expertise to keep this .NET-based greenfield build on time and within budget. Beyond project management, Lindsey’s technical development knowledge has been invaluable — helping guide critical decisions to achieve the right outcomes in a challenging legacy environment undergoing modernization. The application she supported carries the highest visibility, serving both executive leadership and student users, and her contributions have been instrumental in its success.” – Client Stakeholder</p>
+                            <h4 className="text-lg font-bold border-b border-gray-300 pb-1 mb-2">Stakeholder Feedback:</h4>
+
+                            <p className="text-gray-700 text-base italic mb-10">"This platform has transformed how we manage postgraduate coursework data. By integrating with
+                                our core systems and providing a structured approval workflow, we’ve significantly improved data accuracy and efficiency—allowing faculty and
+                                administrators to focus on student success." – Prestigious Medical School Leadership</p>
+
+                            <p className="text-gray-700 text-base italic mb-10">“Lindsey has been an outstanding asset to this complex project at Washington University School
+                                of Medicine. She has skillfully applied her organizational, agile, and communication expertise to keep this .NET-based greenfield build on time
+                                and within budget. Beyond project management, Lindsey’s technical development knowledge has been invaluable — helping guide critical decisions
+                                to achieve the right outcomes in a challenging legacy environment undergoing modernization. The application she supported carries the highest
+                                visibility, serving both executive leadership and student users, and her contributions have been instrumental in its
+                                success.” -- Prestigious Medical School Leadership/Stakeholder</p>
                         </div>
                     </div>
 
